@@ -1,0 +1,457 @@
+{
+    "cotacoes": [
+        {
+            "cod": "ABCB4"
+        },
+        {
+            "cod": "ALPA4"
+        },
+        {
+            "cod": "ALUP11"
+        },
+        {
+            "cod": "ABEV3"
+        },
+        {
+            "cod": "ANIM3"
+        },
+        {
+            "cod": "ARZZ3"
+        },
+        {
+            "cod": "AZUL4"
+        },
+        {
+            "cod": "B3SA3"
+        },
+        {
+            "cod": "BRSR6"
+        },
+        {
+            "cod": "BBSE3"
+        },
+        {
+            "cod": "BRML3"
+        },
+        {
+            "cod": "BRPR3"
+        },
+        {
+            "cod": "BBDC3"
+        },
+        {
+            "cod": "BBDC4"
+        },
+        {
+            "cod": "BRAP4"
+        },
+        {
+            "cod": "BBAS3"
+        },
+        {
+            "cod": "BRKMS"
+        },
+        {
+            "cod": "BRFS3"
+        },
+        {
+            "cod": "BPAC1 1"
+        },
+        {
+            "cod": "CAML3"
+        },
+        {
+            "cod": "CRFB3"
+        },
+        {
+            "cod": "CCRO3"
+        },
+        {
+            "cod": "CMIG3"
+        },
+        {
+            "cod": "CMIG4"
+        },
+        {
+            "cod": "CIEL3"
+        },
+        {
+            "cod": "CGASS"
+        },
+        {
+            "cod": "CSMG3"
+        },
+        {
+            "cod": "CPLE6"
+        },
+        {
+            "cod": "CSAN3"
+        },
+        {
+            "cod": "RLOG3"
+        },
+        {
+            "cod": "CPFE3"
+        },
+        {
+            "cod": "CVCB3"
+        },
+        {
+            "cod": "CYRE3"
+        },
+        {
+            "cod": "DIRR3"
+        },
+        {
+            "cod": "DMMO3"
+        },
+        {
+            "cod": "ECOR3"
+        },
+        {
+            "cod": "ELET3"
+        },
+        {
+            "cod": "ELET6"
+        },
+        {
+            "cod": "EMBR3"
+        },
+        {
+            "cod": "ENBR3"
+        },
+        {
+            "cod": "ENGIII"
+        },
+        {
+            "cod": "ENEV3"
+        },
+        {
+            "cod": "EGIE3"
+        },
+        {
+            "cod": "EQTL3"
+        },
+        {
+            "cod": "EVEN3"
+        },
+        {
+            "cod": "EZTC3"
+        },
+        {
+            "cod": "FESA4"
+        },
+        {
+            "cod": "FLRY3"
+        },
+        {
+            "cod": "GFSA3"
+        },
+        {
+            "cod": "GGBR4"
+        },
+        {
+            "cod": "GOAU4"
+        },
+        {
+            "cod": "GOLL4"
+        },
+        {
+            "cod": "GRND3"
+        },
+        {
+            "cod": "GUAR3"
+        },
+        {
+            "cod": "HAPV3"
+        },
+        {
+            "cod": "HBOR3"
+        },
+        {
+            "cod": "HYPE3"
+        },
+        {
+            "cod": "PARD3"
+        },
+        {
+            "cod": "MEAL3"
+        },
+        {
+            "cod": "GNDI3"
+        },
+        {
+            "cod": "MYPK3"
+        },
+        {
+            "cod": "IRBR3"
+        },
+        {
+            "cod": "ITSA4"
+        },
+        {
+            "cod": "ITUB3"
+        },
+        {
+            "cod": "ITUB4"
+        },
+        {
+            "cod": "jBSS3"
+        },
+        {
+            "cod": "KLBN1 1"
+        },
+        {
+            "cod": "LIGT3"
+        },
+        {
+            "cod": "RENT3"
+        },
+        {
+            "cod": "AMAR3"
+        },
+        {
+            "cod": "LREN3"
+        },
+        {
+            "cod": "MDIA3"
+        },
+        {
+            "cod": "MGLU3"
+        },
+        {
+            "cod": "POMO4"
+        },
+        {
+            "cod": "MRFG3"
+        },
+        {
+            "cod": "LEVE3"
+        },
+        {
+            "cod": "BEEF3"
+        },
+        {
+            "cod": "MOVI3"
+        },
+        {
+            "cod": "MRVE3"
+        },
+        {
+            "cod": "MULT3"
+        },
+        {
+            "cod": "ODPV3"
+        },
+        {
+            "cod": "OMGE3"
+        },
+        {
+            "cod": "PETR3"
+        },
+        {
+            "cod": "PETR4"
+        },
+        {
+            "cod": "PRIO3"
+        },
+        {
+            "cod": "PSSA3"
+        },
+        {
+            "cod": "PTBL3"
+        },
+        {
+            "cod": "QUAL3"
+        },
+        {
+            "cod": "RADL3"
+        },
+        {
+            "cod": "RAPT4"
+        },
+        {
+            "cod": "RAIL3"
+        },
+        {
+            "cod": "SBSP3"
+        },
+        {
+            "cod": "SAPR11"
+        },
+        {
+            "cod": "SANB11"
+        },
+        {
+            "cod": "STBP3"
+        },
+        {
+            "cod": "SMTO3"
+        },
+        {
+            "cod": "SEER3"
+        },
+        {
+            "cod": "CSNA3"
+        },
+        {
+            "cod": "SLCE3"
+        },
+        {
+            "cod": "SULAII"
+        },
+        {
+            "cod": "SUZB3"
+        },
+        {
+            "cod": "TAEEII"
+        },
+        {
+            "cod": "TGMA3"
+        },
+        {
+            "cod": "TOTS3"
+        },
+        {
+            "cod": "TRPL4"
+        },
+        {
+            "cod": "TUPY3"
+        },
+        {
+            "cod": "UGPA3"
+        },
+        {
+            "cod": "UNIP6"
+        },
+        {
+            "cod": "USIMS"
+        },
+        {
+            "cod": "VALE3"
+        },
+        {
+            "cod": "VLID3"
+        },
+        {
+            "cod": "VULC3"
+        },
+        {
+            "cod": "WEGE3"
+        },
+        {
+            "cod": "WIZS3"
+        },
+        {
+            "cod": "VIVA3"
+        },
+        {
+            "cod": "CEAB3"
+        },
+        {
+            "cod": "YDUQ3"
+        },
+        {
+            "cod": "COGN3"
+        },
+        {
+            "cod": "BIOM3"
+        },
+        {
+            "cod": "BPAN4"
+        },
+        {
+            "cod": "FHER3"
+        },
+        {
+            "cod": "FRAS3"
+        },
+        {
+            "cod": "FRIO3"
+        },
+        {
+            "cod": "FRTA3"
+        },
+        {
+            "cod": "GSHP3"
+        },
+        {
+            "cod": "GPIV33"
+        },
+        {
+            "cod": "LPSB3"
+        },
+        {
+            "cod": "LOGN3"
+        },
+        {
+            "cod": "MILS3"
+        },
+        {
+            "cod": "OFSA3"
+        },
+        {
+            "cod": "OIBR3"
+        },
+        {
+            "cod": "PFRM3"
+        },
+        {
+            "cod": "ROMI3"
+        },
+        {
+            "cod": "PMAM3"
+        },
+        {
+            "cod": "RSID3"
+        },
+        {
+            "cod": "SCAR3"
+        },
+        {
+            "cod": "SGPS3"
+        },
+        {
+            "cod": "SHOW3"
+        },
+        {
+            "cod": "SLED3"
+        },
+        {
+            "cod": "TCSA3"
+        },
+        {
+            "cod": "TECN3"
+        },
+        {
+            "cod": "TELB4"
+        },
+        {
+            "cod": "TEND3"
+        },
+        {
+            "cod": "TESA3"
+        },
+        {
+            "cod": "TPIS3"
+        },
+        {
+            "cod": "TRIS3"
+        },
+        {
+            "cod": "VIVR3"
+        },
+        {
+            "cod": "NTCO3"
+        },
+        {
+            "cod": "MGEL3"
+        },
+        {
+            "cod": "PINE3"
+        },
+        {
+            "cod": "PCAR3"
+        }
+    ]
+}
